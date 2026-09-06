@@ -1,6 +1,8 @@
 # Crème Bakery Ordering System — Prototype User Manual
 
-A working demonstration of an online shop, counter point-of-sale and owner dashboard for Crème Russian Bakery (Tema and Spintex branches). Everything runs from a single file, `index.html`, and can be opened on a phone, tablet or laptop.
+A working demonstration of an online shop, counter point-of-sale and owner dashboard for Crème Russian Bakery (Tema and Spintex branches). 
+
+Link: https://theernestagyemang.github.io/cremerussianbakery.com/
 
 ---
 
